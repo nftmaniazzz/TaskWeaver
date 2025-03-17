@@ -129,7 +129,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -238,3 +237,5 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+config.bat
+node_modules
